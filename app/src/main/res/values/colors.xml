@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="ehr_bg">#f5f5f5</color>
+    <color name="bar_press">#0093ff</color>
+    <color name="bar_press_1">#800093ff</color>
+    <color name="white">#ffffff</color>
+    <color name="white_50">#80ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="text_main">#323232</color>
+    <color name="line">#f0f0f0</color>
+</resources>
